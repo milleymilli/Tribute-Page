@@ -1,0 +1,27 @@
+#main {
+  background-color: #d3d3d3;
+  color: black;
+}
+#title {
+  text-align: center;
+  padding: 15px;
+}
+#img-div {
+  font-size: 15px;
+  text-align: center;
+}
+#img-caption {
+  font-size: 15px;
+  text-align: center;
+}
+#tribute-info {
+  position: absolute;
+  left: 10%;
+  right: 10%;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
